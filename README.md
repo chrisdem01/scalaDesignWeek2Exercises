@@ -1,0 +1,1 @@
+# scalaDesignWeek2Exercises
